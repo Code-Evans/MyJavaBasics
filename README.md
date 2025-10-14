@@ -40,7 +40,7 @@ To run the programs:
 
 ---
 
-##📖 Learning References
+## 📖 Learning References
 
 This repository is based on the concepts and exercises I’ve learned from the following courses:
 
@@ -54,7 +54,7 @@ Both courses have helped me grasp Java fundamentals and improve my coding confid
 
 ---
 
-##🌱 Future Plans
+## 🌱 Future Plans
 
 Add more OOP-focused exercises
 
@@ -64,7 +64,7 @@ Explore file handling, exceptions, and collections
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 This repository is mainly for personal learning, but feedback and suggestions are always welcome!
 Feel free to fork, explore, or drop a message if you find something interesting.
