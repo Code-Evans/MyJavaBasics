@@ -12,7 +12,7 @@ I enjoy learning by building small, meaningful projects — and this repository 
 - 🎓 Computer Engineering Graduate  
 - 💻 Interests: Cloud, Web, and Cybersecurity  
 - 🧠 Learning Focus: Problem-solving and solidifying core programming concepts  
-- 🐱 Fun fact: I love cats and I’m a bit of a perfectionist when it comes to code style 😸
+
 
 ---
 
