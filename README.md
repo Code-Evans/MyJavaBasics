@@ -37,3 +37,36 @@ To run the programs:
    ```bash
    javac Filename.java
    java Filename
+
+---
+
+##📖 Learning References
+
+This repository is based on the concepts and exercises I’ve learned from the following courses:
+
+🎓 Java Programming Masterclass — Udemy
+ by Tim Buchalka
+
+🎥 Bro Code – Full Java Course for Beginners (YouTube)
+
+
+Both courses have helped me grasp Java fundamentals and improve my coding confidence through hands-on examples.
+
+---
+
+##🌱 Future Plans
+
+Add more OOP-focused exercises
+
+Implement small projects (e.g., calculator, student records, etc.)
+
+Explore file handling, exceptions, and collections
+
+---
+
+##🤝 Contributing
+
+This repository is mainly for personal learning, but feedback and suggestions are always welcome!
+Feel free to fork, explore, or drop a message if you find something interesting.
+
+⭐ If you find this repo helpful, give it a star — it motivates me to keep coding and improving!
