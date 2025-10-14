@@ -6,7 +6,7 @@ Welcome to **MyJavaBasics** — a collection of Java programs, exercises, and no
 
 ## 👋 About Me
 
-Hi! I’m **Adrian Evangelista**, a Computer Engineering graduate passionate about **software development**, **cloud systems**, and **cybersecurity**.  
+Hi! I’m **Adrian "Evans" Evangelista**, a Computer Engineering graduate passionate about **software development**, **cloud systems**, and **cybersecurity**.  
 I enjoy learning by building small, meaningful projects — and this repository is where I revisit and strengthen my foundation in Java.
 
 - 🎓 Computer Engineering Graduate  
