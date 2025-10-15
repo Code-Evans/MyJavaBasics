@@ -1,4 +1,4 @@
-public class wrapperExample {
+public class WrapperExample {
     
     public static void main(String[] args) { 
 
