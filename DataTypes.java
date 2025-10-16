@@ -17,7 +17,7 @@ public class DataTypes {
 
         
         byte numByte = 127; // 8 bits, -128 to 127
-        short numShort = 32_768; // 16 bits, -32,768 to 32,767
+        short numShort = 32_767; // 16 bits, -32,768 to 32,767
         int numInt = 2_147_483_647; // 32 bits, -2,147,483,648 to 2,147,483,647
         Long numLong = 9_223_372_036_854_775_807L; // 64 bits, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
         float numFloat = 3.141592F; //32 bits, 6 to 7 digits Decimal Values
