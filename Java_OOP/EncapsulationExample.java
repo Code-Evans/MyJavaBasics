@@ -12,9 +12,9 @@ package Java_OOP;
  * - Provide PUBLIC getter and setter methods for controlled access
  * 
  * Benefits of Encapsulation:
- * ✅ Protects data from unintended modification
- * ✅ Allows validation and control over how data is changed
- * ✅ Increases code maintainability and flexibility
+ * - Protects data from unintended modification
+ * - Allows validation and control over how data is changed
+ * - Increases code maintainability and flexibility
  */
 
 public class EncapsulationExample {
